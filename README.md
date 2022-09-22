@@ -1,0 +1,2 @@
+# Implement-Gradient-Descent-Algorithm-to-find-the-local-minima-of-a-function
+For example, find the local minima of the function y=(x+3)² starting from the point x=2.  It's an optimisation algorithm. Gradient Descent : Minimization optimization that follows the negative of the gradient to the minimum of the target function.  Input of Gradient Descent Algorithm:  Target function or Objective function. Alpha Or Step size Or learning parameter Starting point Iteration Cap
